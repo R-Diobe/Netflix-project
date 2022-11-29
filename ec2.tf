@@ -2,3 +2,5 @@
 resource "aws_instance" "name" {
   
 }
+
+# OS ---> Windows
